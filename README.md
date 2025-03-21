@@ -10,6 +10,7 @@ This project is a comprehensive e-commerce platform that facilitates seamless tr
 ## Required Tools and Technologies
 
 - **Programming Language**: PHP, JavaScript
+- **Frontend Language**: Html, Css
 - **Database**: MySQL
 - **Libraries/Dependencies**:
   - Bootstrap
