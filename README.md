@@ -1,7 +1,7 @@
 
 # ECommerce Shopping Portal PHP
 
-An e-commerce platform built using PHP, MySQL, Bootstrap, HTML, and CSS.
+An E-commerce platform built using PHP, MySQL, Bootstrap, HTML, and CSS.
 
 ## Description
 
@@ -52,5 +52,6 @@ To get this e-commerce platform up and running, follow these steps:
 2. Register a new account or log in with existing credentials.
 3. Browse products, add them to your shopping cart, and proceed to checkout.
 4. Admins can log in to the admin panel to manage products, orders, and view analytics.
+5. User can add products in shopping cart and checkout.
 
 
